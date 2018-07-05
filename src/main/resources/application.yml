@@ -1,0 +1,4 @@
+swagger:
+    base-package: com.zk.web
+    base-path: /**
+    exclude-path: /error
